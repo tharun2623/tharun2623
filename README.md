@@ -1,6 +1,6 @@
 ###
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=8803FC&size=24&lines=Hey+there,+I'm+Tharun Prasaath R;I'm+A+Test Engineer.;Automation Testing.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=8803FC&size=24&lines=Hey+there,+I'm+Tharun Prasaath R;I'm+A+Front-End Developer.;Automation Testing.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
 
 <h2>  Welcome to my Git! 👋</h2>
 
