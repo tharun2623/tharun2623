@@ -1,6 +1,6 @@
 ###
 
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=8803FC&size=24&lines=Hey+there,+I'm+Tharun Prasaath R;I'm+A+Front-End Developer.;Automation Testing.;An+Open-Source+Enthusiast+!.;" alt="Typing SVG" >
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=500&color=8803FC&width=435&lines=Hey+there,+I'm+Tharun+Prasaath+R;I'm+A+Front-End+Developer.;Automation+Testing.;An+Open-Source+Enthusiast+!.)
 
 <h2>  Welcome to my Git! 👋</h2>
 
